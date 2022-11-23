@@ -1,1 +1,2 @@
-My first readme
+I am making progress :)
+This is great.

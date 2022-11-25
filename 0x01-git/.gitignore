@@ -1,4 +1,9 @@
 # -*- mode: gitignore; -*-
+ *~
+ \#*\#
+ /.emacs.desktop
+ /.emacs.desktop.lock
+ *.elc
 uto-save-list
 
 tramp
